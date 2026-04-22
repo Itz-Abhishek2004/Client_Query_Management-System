@@ -47,11 +47,3 @@ These users are stored in the MySQL `users` table for testing.
 - pandas[web:48]
 
 ---
-
-## How to Run
-
-1. Clone the repository:
-
-   ```bash
-   git clone <your-repo-url>
-   cd <your-repo-folder>
