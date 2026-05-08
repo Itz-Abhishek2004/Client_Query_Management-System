@@ -44,6 +44,6 @@ These users are stored in the MySQL `users` table for testing.
 - Streamlit  
 - MySQL  
 - mysql-connector-python  
-- pandas[web:48]
+- pandas
 
 ---
